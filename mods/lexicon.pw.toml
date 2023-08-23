@@ -1,0 +1,13 @@
+name = "Lexicon"
+filename = "Lexicon-1.20.x-(v.1.5.2).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7RSp3ivG/versions/PLsi306a/Lexicon-1.20.x-%28v.1.5.2%29.jar"
+hash-format = "sha1"
+hash = "975eb4722c731aedd25c3c2e951e1ed530d68516"
+
+[update]
+[update.modrinth]
+mod-id = "7RSp3ivG"
+version = "PLsi306a"

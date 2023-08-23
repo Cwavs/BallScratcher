@@ -11,13 +11,83 @@ hash = "2d30d9c0cf9f8b03e7862b8577e867a9f79426686d111d1051434b735af71006"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "9672fcf9cf2bd3c18a205752803a45eec0d51420523e80132ba5accce307d6be"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ff44ef23106a7d91976d4eeb51aba8eba9771b62716eff6b1f418fda2d198a6d"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "c0d0338a50614964efe0ee9cff9413614ec718ac6a5b9f19337b5f92964937ef"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "9505d8f590800cb91e69e1b669b95a12033b2e71211a2d4cd828523781c097d1"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "7849cb4bfb8818a8842476a6f6caaadd9e71041d303373af0d9ba4d58b52c308"
+metafile = true
+
+[[files]]
+file = "mods/dynmap.pw.toml"
+hash = "2577c78d25b9c8672282b4bf9a3d58d7cfb3511eb20d7637c9030325da345939"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "b6ded2ce50abddbfef3f2caa70074ab5593f9deef8b1ac59a65ac7752c72bfbc"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "87edc3a5eb217bb942c12221dbdea190dbb4385219be06b0944370fec5ad5c58"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "3e7972e002c83cec1c92da444fed68ec30dcc36db0c8812d0431c81d33467c00"
+metafile = true
+
+[[files]]
+file = "mods/lexicon.pw.toml"
+hash = "9f9ea2e030a7b3526361742f7d50081261ed60eb9b35369d47a64f2b10f4c427"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "75adf9b1f879a4087d6e918bf15fe65d162a1b97164d3543d31f4e3413a1e2a5"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e82cde0969786cf8a19678c78cab9e52f064a43e1b277fd814fa53d58fab622d"
 metafile = true
 
 [[files]]
@@ -28,6 +98,21 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "0bcabd5a014d9a8f18986d0d0cc1edabbadb4e7e63cdd33dfe5eba31e28c48ae"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "f156c40c0c9453fc3871188e483fb6f696802ef07f87ebfaf5f5eda58979cb1c"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "0136244dc171cc6cb6efa65f729356f0d0d69e2d83b53ba4ea89e6195a4dbfc9"
 metafile = true
 
 [[files]]
