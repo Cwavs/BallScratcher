@@ -286,6 +286,11 @@ hash = "484c4bff6d0228c49ea066ab0a430d039d61e073c1df3c68a59d3a8a9e8567d8"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "e0abd290de019a8918b8f7f68bdc7a63ed43921082a8f70ef6cba99bf3582784"
+metafile = true
+
+[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "6fa0373dedf837b6aff1d501cbfd39e904cdf556a9ee962d1fbbfe574c330b45"
 metafile = true
