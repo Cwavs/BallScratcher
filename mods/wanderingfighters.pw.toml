@@ -1,0 +1,13 @@
+name = "WanderingFighters"
+filename = "wanderingfighters-1.20.1-forge-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c365ec9806926c24e8a7908c12ce5d86fab6edcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4605592
+project-id = 695587

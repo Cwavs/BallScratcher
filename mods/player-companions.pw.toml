@@ -1,0 +1,13 @@
+name = "Player Companions"
+filename = "player_companions_1.20.1-6.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ca4ea737dae7b853cd2d13cbc6020a90bc8e857"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4693315
+project-id = 552456

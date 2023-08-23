@@ -1,0 +1,13 @@
+name = "Elytra Bombing [Forge]"
+filename = "ElytraBombing-Forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2d9471c91605a54bc23855b258515ebb6f0da08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4654598
+project-id = 577527
