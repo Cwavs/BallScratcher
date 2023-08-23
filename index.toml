@@ -41,6 +41,11 @@ hash = "c0d0338a50614964efe0ee9cff9413614ec718ac6a5b9f19337b5f92964937ef"
 metafile = true
 
 [[files]]
+file = "mods/chance-cubes.pw.toml"
+hash = "6bceebf72b5c38c350d3a9548240e2689df2e21ef3dc33df8764f8eb1fbbe7e6"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "69bc4ca6cf42ef8af7a453934eb30282fe9e2ada21eacbe905470d4c2b160b47"
 metafile = true
@@ -176,6 +181,11 @@ hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
 
 [[files]]
+file = "mods/mystical-oak-tree.pw.toml"
+hash = "e37f81b9e82e757ba91a3efc644ec63dfcac7f89d87a83032f02ea637b955f52"
+metafile = true
+
+[[files]]
 file = "mods/neat.pw.toml"
 hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
 metafile = true
@@ -238,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "ca04ac00b831bf1de4215e50b8158e00e7d5ad0249653ad895019a2de29e109d"
 metafile = true
 
 [[files]]
