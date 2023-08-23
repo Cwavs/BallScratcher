@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "7173701aafb7b0a39bc4bd2132fe6eba055a769f3413ead3b361f8099117557a"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "2d30d9c0cf9f8b03e7862b8577e867a9f79426686d111d1051434b735af71006"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ff44ef23106a7d91976d4eeb51aba8eba9771b62716eff6b1f418fda2d198a6d"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "7849cb4bfb8818a8842476a6f6caaadd9e71041d303373af0d9ba4d58b52c308"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "78362b7e7661e4511545b6f782e3dbcff2500a64e61dea86125f2a60484eb6a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "0bcabd5a014d9a8f18986d0d0cc1edabbadb4e7e63cdd33dfe5eba31e28c48ae"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "8bd8548ed32ec12f463e11dbaffdb7305fb0734a881a7a021dd78ce48670b4b2"
+metafile = true
+
+[[files]]
+file = "mods/tropicraft.pw.toml"
+hash = "d1ddf5aab32011016ae296ca4bc9a3b866091cec8911b59700c1b49aacfef41d"
+metafile = true
