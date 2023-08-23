@@ -26,6 +26,11 @@ hash = "92f8b04556a1194413be0271ac6d485d43bfc3e6e7928d5438cc24632a1b7d97"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "e64e65f5d7668f8223e95df33487406387391af9da81551d8534202b3334a399"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ff44ef23106a7d91976d4eeb51aba8eba9771b62716eff6b1f418fda2d198a6d"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/wanderingfighters.pw.toml"
 hash = "fdf47139a8cf519cf52edc356b205388f767c0bd2774508edc62980bf3e775a2"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "477652a264c5132ef11d29a8a8c5b456490fa9896103ec100b45b65a5c5fae8f"
 metafile = true
 
 [[files]]
