@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "bc7f62deef63afee6be8569c580c842d14e0a153a823a3036ce634ef0a43234d"
+hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f106efa4f0255827f932d58eca40ab73acfa8e6c55195dd720ec75b95b664ca6"
+hash = "67ec6cbf94d9fec675d7d342dec65228228585ca36f8bfb7b727b459f4779854"
 metafile = true
 
 [[files]]
@@ -101,8 +101,8 @@ hash = "2577c78d25b9c8672282b4bf9a3d58d7cfb3511eb20d7637c9030325da345939"
 metafile = true
 
 [[files]]
-file = "mods/elytra-bombing.pw.toml"
-hash = "d6b127e30bb8201460e001a039e865d55e93b09d6ec885ce5f0c4d63452ad72b"
+file = "mods/elytra-slot.pw.toml"
+hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true
 
 [[files]]
