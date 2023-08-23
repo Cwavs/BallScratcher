@@ -16,6 +16,11 @@ hash = "9672fcf9cf2bd3c18a205752803a45eec0d51420523e80132ba5accce307d6be"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "6f06e0446d8b8d7fdb289daade5d26db708bc621e01f7d81ec006688c82a7baa"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "92f8b04556a1194413be0271ac6d485d43bfc3e6e7928d5438cc24632a1b7d97"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "7849cb4bfb8818a8842476a6f6caaadd9e71041d303373af0d9ba4d58b52c308"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "30965c8f7175dd885351bd6025ff5142761a7b27c7d213200ac4a77bdae97b95"
 metafile = true
 
 [[files]]
@@ -178,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
+metafile = true
+
+[[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "a1fa411fb0fd11c8f6b5a0e0afec6bbd0061e0bfad0a5e0ccd7802a5b45c1cec"
 metafile = true
 
 [[files]]
