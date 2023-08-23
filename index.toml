@@ -131,6 +131,11 @@ hash = "87edc3a5eb217bb942c12221dbdea190dbb4385219be06b0944370fec5ad5c58"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "3e7972e002c83cec1c92da444fed68ec30dcc36db0c8812d0431c81d33467c00"
 metafile = true
