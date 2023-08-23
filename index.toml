@@ -171,6 +171,11 @@ hash = "9f9ea2e030a7b3526361742f7d50081261ed60eb9b35369d47a64f2b10f4c427"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "8370d3602ecb1545b052f81035ff92e3e2cab7dc549fde5a4effb24542bccbc0"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "1c335cf6d513141091be351b3bec2a8b2dff0a4dd08b22e23083920720863681"
 metafile = true
