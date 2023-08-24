@@ -31,6 +31,11 @@ hash = "92f8b04556a1194413be0271ac6d485d43bfc3e6e7928d5438cc24632a1b7d97"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "9bcb3389e104fbc89005b26c7f54062fb50d73bc7f87c79429ed2b557c223b46"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "e64e65f5d7668f8223e95df33487406387391af9da81551d8534202b3334a399"
 metafile = true
@@ -63,11 +68,6 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "69bc4ca6cf42ef8af7a453934eb30282fe9e2ada21eacbe905470d4c2b160b47"
-metafile = true
-
-[[files]]
-file = "mods/classic-minecraft-icon.pw.toml"
-hash = "bf6b47223e5ebdc72d0c45c53e2f6c20406843ea8de497ae35c26dd3deaf2e5e"
 metafile = true
 
 [[files]]
@@ -108,11 +108,6 @@ metafile = true
 [[files]]
 file = "mods/dungeonsenhanced.pw.toml"
 hash = "762cbc4ec93eae59a873a53ebb36be37049e9af6c7af6cbec184e3378e4259f0"
-metafile = true
-
-[[files]]
-file = "mods/dynmap.pw.toml"
-hash = "2577c78d25b9c8672282b4bf9a3d58d7cfb3511eb20d7637c9030325da345939"
 metafile = true
 
 [[files]]
@@ -216,6 +211,11 @@ hash = "8370d3602ecb1545b052f81035ff92e3e2cab7dc549fde5a4effb24542bccbc0"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "5bb8e2d9771885a5de897d10f572183642ff27c0a3dbc0e6125ff64435c521ea"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "1c335cf6d513141091be351b3bec2a8b2dff0a4dd08b22e23083920720863681"
 metafile = true
@@ -248,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "6e232d1cb1f99dcb469edc3af69b810a433448594a4184d088c5fac38f7f0b0e"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "a7acc97930a04046cbcb8e34cc718db24971f927cd7d4df030f05fe675ccaca4"
 metafile = true
 
 [[files]]
@@ -336,6 +341,11 @@ hash = "6fa0373dedf837b6aff1d501cbfd39e904cdf556a9ee962d1fbbfe574c330b45"
 metafile = true
 
 [[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "6c10f3718ec253b0a68486f94316503560e3a95c589c99bea8b7a74694358b06"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "8bd8548ed32ec12f463e11dbaffdb7305fb0734a881a7a021dd78ce48670b4b2"
 metafile = true
@@ -358,4 +368,14 @@ metafile = true
 [[files]]
 file = "mods/weeping-angels-mod.pw.toml"
 hash = "c41975793db0676f06e93c167557b90fee98743d9bc2caf50bf77d11a463323d"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d844ed361c899fdf09e1ce191f19a2d9f2d25a0b7e7e9eddbc65fa88642b6102"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "a1abed53d9a33adcfb631f6e57f5f9a35cdbbfcc61fdc2a881864fc28d3d7d8d"
 metafile = true
