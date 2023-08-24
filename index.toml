@@ -111,11 +111,6 @@ hash = "762cbc4ec93eae59a873a53ebb36be37049e9af6c7af6cbec184e3378e4259f0"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "2577c78d25b9c8672282b4bf9a3d58d7cfb3511eb20d7637c9030325da345939"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true
