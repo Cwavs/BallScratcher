@@ -66,6 +66,11 @@ hash = "69bc4ca6cf42ef8af7a453934eb30282fe9e2ada21eacbe905470d4c2b160b47"
 metafile = true
 
 [[files]]
+file = "mods/classic-minecraft-icon.pw.toml"
+hash = "bf6b47223e5ebdc72d0c45c53e2f6c20406843ea8de497ae35c26dd3deaf2e5e"
+metafile = true
+
+[[files]]
 file = "mods/clumps.pw.toml"
 hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
 metafile = true
@@ -171,6 +176,11 @@ hash = "3de2843a7072f8e7308ba53b1ac2b3f1a38312d4acf69d5cf116c9ac684f3778"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "e57047afadd907f16527f9f5051d3480d550635d1ee767c2de2d98b40639f53f"
+metafile = true
+
+[[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "3e7972e002c83cec1c92da444fed68ec30dcc36db0c8812d0431c81d33467c00"
 metafile = true
@@ -228,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "705a6751200d38054d77546f18edc6feba0e30b8fc2095db3af1838d88fb0405"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
