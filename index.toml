@@ -256,11 +256,6 @@ hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
 metafile = true
 
 [[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "0da8d49f40da464cd8c68f536f4e61c6b05e9c7615d3e7338f9a57cba0e3636c"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "75adf9b1f879a4087d6e918bf15fe65d162a1b97164d3543d31f4e3413a1e2a5"
 metafile = true
