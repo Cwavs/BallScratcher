@@ -96,8 +96,13 @@ hash = "9505d8f590800cb91e69e1b669b95a12033b2e71211a2d4cd828523781c097d1"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "9412d3b61adeab0fd302c666d4a2fe3645352c11cf84e0246fcf5b450737e69a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "7849cb4bfb8818a8842476a6f6caaadd9e71041d303373af0d9ba4d58b52c308"
+hash = "845f5da2a11ed1f90377ea66a35a4fb17c7e1f058d4144295784e05046a80c75"
 metafile = true
 
 [[files]]
@@ -218,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
+metafile = true
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "be472694cadd24973bab3b8ce282861d52bc0fb7f0f60ed316316ce82574d75e"
 metafile = true
 
 [[files]]
