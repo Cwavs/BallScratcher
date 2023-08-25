@@ -101,11 +101,6 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
-file = "mods/craterlib.pw.toml"
-hash = "9505d8f590800cb91e69e1b669b95a12033b2e71211a2d4cd828523781c097d1"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "9412d3b61adeab0fd302c666d4a2fe3645352c11cf84e0246fcf5b450737e69a"
 metafile = true
@@ -363,11 +358,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "ca04ac00b831bf1de4215e50b8158e00e7d5ad0249653ad895019a2de29e109d"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-rpc.pw.toml"
-hash = "0136244dc171cc6cb6efa65f729356f0d0d69e2d83b53ba4ea89e6195a4dbfc9"
 metafile = true
 
 [[files]]
