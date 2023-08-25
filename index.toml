@@ -26,6 +26,16 @@ hash = "bf409698fa5fc701c1482788534af0ae9c0076eb460c17ff0544d5027df376c5"
 metafile = true
 
 [[files]]
+file = "mods/angry-mobs.pw.toml"
+hash = "bd4d96d6db921271faf3587b52ab644c0eca81afa715e7e93cfb86610d8ff172"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
+metafile = true
+
+[[files]]
 file = "mods/backpacked.pw.toml"
 hash = "92f8b04556a1194413be0271ac6d485d43bfc3e6e7928d5438cc24632a1b7d97"
 metafile = true
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "e64e65f5d7668f8223e95df33487406387391af9da81551d8534202b3334a399"
+metafile = true
+
+[[files]]
+file = "mods/better-combat-by-daedelus.pw.toml"
+hash = "02cbfc2ef415376644cace02a08a6c5146b22fd33c2436691ac7917fff5f2715"
 metafile = true
 
 [[files]]
@@ -83,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/classic-minecraft-icon.pw.toml"
 hash = "bf6b47223e5ebdc72d0c45c53e2f6c20406843ea8de497ae35c26dd3deaf2e5e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c41da4281babbf24ce778fcae1da1da9c2d0bdf9a73b01310e1d7fb120c19cc1"
 metafile = true
 
 [[files]]
@@ -301,6 +321,11 @@ hash = "5b13150838b876b284751bcfc4935d05eb153ff165fb2606122eb94301916b51"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "fbe8f915d93551b6d793b3a2c2bbc1e225ed43f3abf1f9abf2c61a9bbc6bfea4"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "6e232d1cb1f99dcb469edc3af69b810a433448594a4184d088c5fac38f7f0b0e"
 metafile = true
@@ -327,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
@@ -363,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "ca04ac00b831bf1de4215e50b8158e00e7d5ad0249653ad895019a2de29e109d"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "1dda060cb739764e88e96bac9c53880933c7f9a293568ffdcdb06cc9be896edb"
 metafile = true
 
 [[files]]
