@@ -101,6 +101,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "c1d37daaedb13ad3e193c80529338a56be790c82f3737425ecf9d430b741cd8b"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "9412d3b61adeab0fd302c666d4a2fe3645352c11cf84e0246fcf5b450737e69a"
 metafile = true
