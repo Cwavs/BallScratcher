@@ -141,6 +141,16 @@ hash = "b6ded2ce50abddbfef3f2caa70074ab5593f9deef8b1ac59a65ac7752c72bfbc"
 metafile = true
 
 [[files]]
+file = "mods/extractinator.pw.toml"
+hash = "f39da2caaa7ed01698228142982a739b09d24f211079e78601a61324771eb278"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
 metafile = true
@@ -358,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "391f1864c3a2bb194944fe8585a747cacc1ea823568c1019214b6547abe79540"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "2fa5228d7e1e6dd2a2ed97dda462712d87d1bedd1f6d3f072472a75c70770277"
 metafile = true
 
 [[files]]
