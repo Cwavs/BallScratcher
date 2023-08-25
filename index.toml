@@ -22,12 +22,17 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "6f06e0446d8b8d7fdb289daade5d26db708bc621e01f7d81ec006688c82a7baa"
+hash = "bf409698fa5fc701c1482788534af0ae9c0076eb460c17ff0544d5027df376c5"
 metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
 hash = "92f8b04556a1194413be0271ac6d485d43bfc3e6e7928d5438cc24632a1b7d97"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "9bcb3389e104fbc89005b26c7f54062fb50d73bc7f87c79429ed2b557c223b46"
 metafile = true
 
 [[files]]
@@ -91,13 +96,18 @@ hash = "9505d8f590800cb91e69e1b669b95a12033b2e71211a2d4cd828523781c097d1"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "9412d3b61adeab0fd302c666d4a2fe3645352c11cf84e0246fcf5b450737e69a"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "7849cb4bfb8818a8842476a6f6caaadd9e71041d303373af0d9ba4d58b52c308"
+hash = "845f5da2a11ed1f90377ea66a35a4fb17c7e1f058d4144295784e05046a80c75"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "30965c8f7175dd885351bd6025ff5142761a7b27c7d213200ac4a77bdae97b95"
+hash = "2aa5700454e77ba458d9b5be31d45237b272fed25b481c19c8ad8eea20a72a79"
 metafile = true
 
 [[files]]
@@ -186,6 +196,16 @@ hash = "29725b9b5379532112f94a3007b2c18ad1cd62be650de78e7574a73eabc98afb"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "de85b22c5d830870f06c4782cfccac865cd30eba5a68d76f74306ded2f05b215"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "52b3b295d3b52be0d946ad9de4b9fdbbbb4c8d55ab2e5fbc067bde32d6f2bb80"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "b2596dec9111b739cd6b78eef860b91f272a6d74d1b7dc8e35d2c156f5bcd781"
 metafile = true
@@ -203,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
+metafile = true
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "be472694cadd24973bab3b8ce282861d52bc0fb7f0f60ed316316ce82574d75e"
 metafile = true
 
 [[files]]
@@ -241,6 +266,11 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "5b13150838b876b284751bcfc4935d05eb153ff165fb2606122eb94301916b51"
+metafile = true
+
+[[files]]
 file = "mods/occultism.pw.toml"
 hash = "6e232d1cb1f99dcb469edc3af69b810a433448594a4184d088c5fac38f7f0b0e"
 metafile = true
@@ -248,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
-metafile = true
-
-[[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "a1fa411fb0fd11c8f6b5a0e0afec6bbd0061e0bfad0a5e0ccd7802a5b45c1cec"
 metafile = true
 
 [[files]]
@@ -353,4 +378,9 @@ metafile = true
 [[files]]
 file = "mods/weeping-angels-mod.pw.toml"
 hash = "c41975793db0676f06e93c167557b90fee98743d9bc2caf50bf77d11a463323d"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d0161e6b6cff355dda32a400f5e249dd6287dad06fc60b1c0a0e8f5d78911f07"
 metafile = true
