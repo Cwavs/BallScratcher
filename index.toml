@@ -381,6 +381,11 @@ hash = "f156c40c0c9453fc3871188e483fb6f696802ef07f87ebfaf5f5eda58979cb1c"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "12a5c8abe6b2670f478535ead2128eed66c738100fa47d7163ce40fcd5aee77c"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
 metafile = true
@@ -448,11 +453,6 @@ metafile = true
 [[files]]
 file = "mods/weeping-angels-mod.pw.toml"
 hash = "c41975793db0676f06e93c167557b90fee98743d9bc2caf50bf77d11a463323d"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "d0161e6b6cff355dda32a400f5e249dd6287dad06fc60b1c0a0e8f5d78911f07"
 metafile = true
 
 [[files]]
