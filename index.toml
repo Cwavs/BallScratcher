@@ -141,11 +141,6 @@ hash = "2aa5700454e77ba458d9b5be31d45237b272fed25b481c19c8ad8eea20a72a79"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "8b40bfadfa94f40e3310148cb4828e304cbdd3842304c300366b25a0d0769818"
-metafile = true
-
-[[files]]
 file = "mods/curios.pw.toml"
 hash = "67ec6cbf94d9fec675d7d342dec65228228585ca36f8bfb7b727b459f4779854"
 metafile = true
@@ -458,4 +453,9 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "d0161e6b6cff355dda32a400f5e249dd6287dad06fc60b1c0a0e8f5d78911f07"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "a1abed53d9a33adcfb631f6e57f5f9a35cdbbfcc61fdc2a881864fc28d3d7d8d"
 metafile = true
