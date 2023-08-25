@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "6f06e0446d8b8d7fdb289daade5d26db708bc621e01f7d81ec006688c82a7baa"
+hash = "bf409698fa5fc701c1482788534af0ae9c0076eb460c17ff0544d5027df376c5"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "30965c8f7175dd885351bd6025ff5142761a7b27c7d213200ac4a77bdae97b95"
+hash = "2aa5700454e77ba458d9b5be31d45237b272fed25b481c19c8ad8eea20a72a79"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "a1fa411fb0fd11c8f6b5a0e0afec6bbd0061e0bfad0a5e0ccd7802a5b45c1cec"
+hash = "0da8d49f40da464cd8c68f536f4e61c6b05e9c7615d3e7338f9a57cba0e3636c"
 metafile = true
 
 [[files]]
