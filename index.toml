@@ -41,6 +41,11 @@ hash = "e64e65f5d7668f8223e95df33487406387391af9da81551d8534202b3334a399"
 metafile = true
 
 [[files]]
+file = "mods/better-taskbar.pw.toml"
+hash = "4b77150497d44d8d7a7f9a1a1bbdca6c4de079b6124716ac4aacc8629e5799b9"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ff44ef23106a7d91976d4eeb51aba8eba9771b62716eff6b1f418fda2d198a6d"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
+metafile = true
+
+[[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "bf4b0c923b659c615c1a5306b376a344732aca87b6476f878e327c1b6d2c7a33"
 metafile = true
 
 [[files]]
@@ -266,6 +276,11 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "5b13150838b876b284751bcfc4935d05eb153ff165fb2606122eb94301916b51"
 metafile = true
@@ -273,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "6e232d1cb1f99dcb469edc3af69b810a433448594a4184d088c5fac38f7f0b0e"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "a7acc97930a04046cbcb8e34cc718db24971f927cd7d4df030f05fe675ccaca4"
 metafile = true
 
 [[files]]
@@ -363,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/tropicraft.pw.toml"
 hash = "d1ddf5aab32011016ae296ca4bc9a3b866091cec8911b59700c1b49aacfef41d"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
 metafile = true
 
 [[files]]

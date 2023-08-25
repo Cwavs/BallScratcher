@@ -1,0 +1,13 @@
+name = "Packet Fixer"
+filename = "PacketFixerForge-1.1.4-1.1.4-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/hBrpREnU/PacketFixerForge-1.1.4-1.1.4-1.20.1.jar"
+hash-format = "sha1"
+hash = "75dff4c0c365c0b05c4d05d1653a30769ade13ac"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "hBrpREnU"
