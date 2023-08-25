@@ -31,6 +31,11 @@ hash = "92f8b04556a1194413be0271ac6d485d43bfc3e6e7928d5438cc24632a1b7d97"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "9bcb3389e104fbc89005b26c7f54062fb50d73bc7f87c79429ed2b557c223b46"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "e64e65f5d7668f8223e95df33487406387391af9da81551d8534202b3334a399"
 metafile = true
@@ -363,4 +368,9 @@ metafile = true
 [[files]]
 file = "mods/weeping-angels-mod.pw.toml"
 hash = "c41975793db0676f06e93c167557b90fee98743d9bc2caf50bf77d11a463323d"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d0161e6b6cff355dda32a400f5e249dd6287dad06fc60b1c0a0e8f5d78911f07"
 metafile = true
