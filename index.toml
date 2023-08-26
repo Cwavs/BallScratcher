@@ -646,6 +646,11 @@ hash = "484c4bff6d0228c49ea066ab0a430d039d61e073c1df3c68a59d3a8a9e8567d8"
 metafile = true
 
 [[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "cf34eee84a98dea956dc3241e580c0e3003d48da35eafa741e448e13f17714b6"
+metafile = true
+
+[[files]]
 file = "mods/solar-flux-reborn.pw.toml"
 hash = "2ecacf7b2d79e4de8e15280c6c168af5d47fabf492cb7f77e14d6831bcad16e6"
 metafile = true
