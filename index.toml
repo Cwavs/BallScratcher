@@ -416,6 +416,11 @@ hash = "3adf1317cae3be0861ff199c6c8e360284f98ec273a76b09f8826014ea7260ff"
 metafile = true
 
 [[files]]
+file = "mods/laser-bridges-doors.pw.toml"
+hash = "acc8c26bc1f0e772837ce4f79291ba5fc785efdca4f43812e4bff51f7f9021f1"
+metafile = true
+
+[[files]]
 file = "mods/lexicon.pw.toml"
 hash = "9f9ea2e030a7b3526361742f7d50081261ed60eb9b35369d47a64f2b10f4c427"
 metafile = true
