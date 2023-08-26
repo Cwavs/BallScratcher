@@ -436,6 +436,11 @@ hash = "6497a247cead83624f304c6405ef760b93d2c8f65eac84ab33c2654eb174da18"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
+metafile = true
+
+[[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
 hash = "ffb8710abc6b56a85babcdc0ebbbc3f702b836a00d885c570439671c982baf70"
 metafile = true
