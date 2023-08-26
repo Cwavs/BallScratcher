@@ -11,6 +11,11 @@ hash = "7173701aafb7b0a39bc4bd2132fe6eba055a769f3413ead3b361f8099117557a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-mining-dimension.pw.toml"
+hash = "9143675eb2c2a8d17ec976eddae905df4c2d91c9c6d7354ae72774e837009dab"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "78506e4189f36ebf590c3467b1653b7f34332d5a711b6ad7ecc2a97b582b6f0f"
 metafile = true
