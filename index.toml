@@ -296,6 +296,11 @@ hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
 metafile = true
 
 [[files]]
+file = "mods/farts.pw.toml"
+hash = "00f5e6e69d5d6b2a703dec43510ae6df77520983d7c73dc3610c29ee220b1122"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
 metafile = true
