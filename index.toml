@@ -21,6 +21,11 @@ hash = "2d30d9c0cf9f8b03e7862b8577e867a9f79426686d111d1051434b735af71006"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "a344ae925ad6cef380355eee0f075558fc2ab6892f8cbd3881ecd29bb3f43106"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
@@ -106,8 +111,18 @@ hash = "c0d0338a50614964efe0ee9cff9413614ec718ac6a5b9f19337b5f92964937ef"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e97e90c7a11d754952bf496c2c80948649cd0f6c60e952d186ae30506ddf927d"
+metafile = true
+
+[[files]]
 file = "mods/chance-cubes.pw.toml"
 hash = "6bceebf72b5c38c350d3a9548240e2689df2e21ef3dc33df8764f8eb1fbbe7e6"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "6e8b65f27cf9d2a7fefceb46d818b5c58c8e1460bd4fc2eefc85e4fe0fee3925"
 metafile = true
 
 [[files]]
@@ -133,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "ae7289ce36007969323855d0f6c02afdce5890fb1263057eec68cdaafe455908"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "caee6348c332381e5d7cc4d254af47c0c23e64872ceb6719fb58e860bbc7baf1"
 metafile = true
 
 [[files]]
@@ -171,6 +191,16 @@ hash = "67ec6cbf94d9fec675d7d342dec65228228585ca36f8bfb7b727b459f4779854"
 metafile = true
 
 [[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "ccb14d6fbd1528537ba076bca1659cbb15c171b0d737003f45af511a3fada6a3"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
+metafile = true
+
+[[files]]
 file = "mods/dungeonsenhanced.pw.toml"
 hash = "762cbc4ec93eae59a873a53ebb36be37049e9af6c7af6cbec184e3378e4259f0"
 metafile = true
@@ -186,8 +216,23 @@ hash = "b6ded2ce50abddbfef3f2caa70074ab5593f9deef8b1ac59a65ac7752c72bfbc"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "9b0ca93f27d280239fdeec4ecd745286d897476ed6eeb256ac1a503045edaa52"
+metafile = true
+
+[[files]]
+file = "mods/evilcraft.pw.toml"
+hash = "c94f6fcd63d679c0f682e796a5dcae6f8aee54f67ff257adfe96c29c62931671"
+metafile = true
+
+[[files]]
 file = "mods/extractinator.pw.toml"
 hash = "f39da2caaa7ed01698228142982a739b09d24f211079e78601a61324771eb278"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "be62ff1e9456fde0af3d911e26d7c6e919ec493c34a512c561d46b1601cedfed"
 metafile = true
 
 [[files]]
@@ -213,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
 hash = "380e8c26a970d826d2fe0f245d8456314c14da11404618a2ea66e2bfc7ce8a6d"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
 
 [[files]]
@@ -501,6 +551,11 @@ hash = "d1ddf5aab32011016ae296ca4bc9a3b866091cec8911b59700c1b49aacfef41d"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "3c4233c984c5d9deafa8d5b987374c8f64ed58ea8d5ccf87706b42fdcf195d1b"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
 metafile = true
@@ -528,4 +583,9 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "a1abed53d9a33adcfb631f6e57f5f9a35cdbbfcc61fdc2a881864fc28d3d7d8d"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "88f206db199773ce9f231bd452aee8ee2b8b73b5457cbed2b636d60a0c9b6c19"
 metafile = true
