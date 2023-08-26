@@ -3,11 +3,11 @@ filename = "nyfsspiders-forge-1.20.1-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dOGM7ccu/versions/wqZf325d/nyfsspiders-forge-1.20.1-2.1.0.jar"
 hash-format = "sha1"
 hash = "4bc18d2fa6c030a284a888689b49703c1863f4c9"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "dOGM7ccu"
-version = "wqZf325d"
+[update.curseforge]
+file-id = 4661149
+project-id = 686058

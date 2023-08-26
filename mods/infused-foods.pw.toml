@@ -1,0 +1,13 @@
+name = "Infused Foods"
+filename = "infusedfoods-1.20.1-10.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "566e9214aae960db4b94120659d4c1644ee92ebc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4702172
+project-id = 629292
