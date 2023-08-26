@@ -586,11 +586,6 @@ hash = "f156c40c0c9453fc3871188e483fb6f696802ef07f87ebfaf5f5eda58979cb1c"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "25d6f35a409f98b57d6e9003a9a0be5b2479fa08c9ed24d20da6eb29b3ccfffe"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "12a5c8abe6b2670f478535ead2128eed66c738100fa47d7163ce40fcd5aee77c"
 metafile = true
