@@ -81,6 +81,11 @@ hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0504cf5f122d59cd547d6717362a44562251591377cc041e7c81df739a966497"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "ff44ef23106a7d91976d4eeb51aba8eba9771b62716eff6b1f418fda2d198a6d"
 metafile = true
@@ -573,6 +578,16 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "c6bf85b9fb817f6e60b984f22f85a2209593dc9e15a30044a94c61018824e119"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4bbb83ee8c87eb0662cb4a48ed345f135154aa6e06662ad036ee2fc51d656ffc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "50b04d364014912477c0a42adf649a09a41e66873cbaefaa6f4b86c79acd2315"
 metafile = true
 
 [[files]]
