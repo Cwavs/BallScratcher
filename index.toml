@@ -191,6 +191,11 @@ hash = "9449c7ac60baf283822d34edae100286799fb591d4c47c35026b075ddbd8788f"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "a04ad5ca7b938e2414d4087faa66f093ff3e19b96cc78ec188f76837889e8994"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "67ec6cbf94d9fec675d7d342dec65228228585ca36f8bfb7b727b459f4779854"
 metafile = true
@@ -321,6 +326,11 @@ hash = "87edc3a5eb217bb942c12221dbdea190dbb4385219be06b0944370fec5ad5c58"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "0460917d82c6a57e7675df7a1f6b31f4209f0e34b7b3e47edd7f7d75467dc823"
 metafile = true
@@ -371,6 +381,11 @@ hash = "ffb8710abc6b56a85babcdc0ebbbc3f702b836a00d885c570439671c982baf70"
 metafile = true
 
 [[files]]
+file = "mods/landmines.pw.toml"
+hash = "3adf1317cae3be0861ff199c6c8e360284f98ec273a76b09f8826014ea7260ff"
+metafile = true
+
+[[files]]
 file = "mods/lexicon.pw.toml"
 hash = "9f9ea2e030a7b3526361742f7d50081261ed60eb9b35369d47a64f2b10f4c427"
 metafile = true
@@ -403,6 +418,16 @@ metafile = true
 [[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "670b5809e3a75961abe374d22dad75e1dff3a6fc7eca0883ec036e89640009bb"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "f17f5ef204ff4e7feab2f1c3d6ece27d5904965be2bd4bafa839cf3b149a9738"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "65d51168c485e8015914bc056c771add42398584bf6be289d48e89a4fba2f43d"
 metafile = true
 
 [[files]]
@@ -451,6 +476,11 @@ hash = "a7acc97930a04046cbcb8e34cc718db24971f927cd7d4df030f05fe675ccaca4"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "bdb1391dc8133efac0f871766d771b83a6e3a2b19077a4b3c649ddc11a703901"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "52c410eec403ed2cc909721bc7f6b58a2298cb964cb7735d2fed42113bfad032"
 metafile = true
@@ -473,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e82cde0969786cf8a19678c78cab9e52f064a43e1b277fd814fa53d58fab622d"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "f48bcd7a0ce202657b7bfbdd879a91e9747d53c5abb8117a33b833119361039a"
 metafile = true
 
 [[files]]
@@ -538,6 +573,16 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "6fa0373dedf837b6aff1d501cbfd39e904cdf556a9ee962d1fbbfe574c330b45"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "27e5a6fa56d4a7ccf792f20b0a0d4d711d7d97913396f08063cf51c1642ec681"
 metafile = true
 
 [[files]]
