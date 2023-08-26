@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "e97e90c7a11d754952bf496c2c80948649cd0f6c60e952d186ae30506ddf927d"
+hash = "44377e9c5594b4131462697bee97ed40315835089609fd3c966f11bd9fd3a124"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/ducky-periphs.pw.toml"
-hash = "2c7ff95da129218e3858446b34840db57405231a50e41badebe7e5037a8afbb4"
+hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
 
 [[files]]
