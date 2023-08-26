@@ -231,6 +231,11 @@ hash = "5468ace73c2e8a4c8ecf7b8786bdcd0024fbfbfe088e642bbeb30eaf7e1cba21"
 metafile = true
 
 [[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "fff96b2cf07d07f0f76243aacbac94edd67c489544741faa8c46da9cb5cf06db"
+metafile = true
+
+[[files]]
 file = "mods/i-wanna-skate.pw.toml"
 hash = "d2c5bef579319e19738723011ed628dc412fbac086b0be452c434ae82d355821"
 metafile = true
