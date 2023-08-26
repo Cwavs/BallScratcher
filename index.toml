@@ -246,6 +246,11 @@ hash = "b6ded2ce50abddbfef3f2caa70074ab5593f9deef8b1ac59a65ac7752c72bfbc"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
+metafile = true
+
+[[files]]
 file = "mods/eureka-ships.pw.toml"
 hash = "9b0ca93f27d280239fdeec4ecd745286d897476ed6eeb256ac1a503045edaa52"
 metafile = true
