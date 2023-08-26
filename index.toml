@@ -371,6 +371,11 @@ hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "dae4dd79e8db2daea3ec318b456fc0e30f529b9acca0a444b4ce7d1debfca143"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "5b13150838b876b284751bcfc4935d05eb153ff165fb2606122eb94301916b51"
 metafile = true
