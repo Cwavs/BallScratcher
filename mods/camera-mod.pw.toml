@@ -1,0 +1,13 @@
+name = "Camera Mod"
+filename = "camera-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/fsgVgGym/camera-1.20.1-1.0.5.jar"
+hash-format = "sha1"
+hash = "d2fdded9b2ff68c0e37d75a4c56b81f19ada5087"
+
+[update]
+[update.modrinth]
+mod-id = "oiuNWinn"
+version = "fsgVgGym"

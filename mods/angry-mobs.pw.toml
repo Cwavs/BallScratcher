@@ -1,0 +1,13 @@
+name = "Angry Mobs"
+filename = "AngryMobs-1.20.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W9PF5nLR/versions/5u4rffjY/AngryMobs-1.20.1-4.0.0.jar"
+hash-format = "sha1"
+hash = "757f173f9ec076e201b7b26f4566f181ad7e504c"
+
+[update]
+[update.modrinth]
+mod-id = "W9PF5nLR"
+version = "5u4rffjY"
