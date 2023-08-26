@@ -456,6 +456,11 @@ hash = "9f9ea2e030a7b3526361742f7d50081261ed60eb9b35369d47a64f2b10f4c427"
 metafile = true
 
 [[files]]
+file = "mods/log-begone.pw.toml"
+hash = "da7459270716d11fa029fd0367f4b61ec74d3a626c344c1692691406e49f82a7"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
 metafile = true
