@@ -56,6 +56,11 @@ hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
 metafile = true
 
 [[files]]
+file = "mods/argonauts.pw.toml"
+hash = "ace5d54fd4383f867e82d1d78569fb8401376ffef2aa63249eb2e686f82e6e38"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "83010fde4f92e0ba914f18c2ad7967f4eddf3d65908a11e87473594def8a7840"
 metafile = true
