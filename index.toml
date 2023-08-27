@@ -251,6 +251,11 @@ hash = "055f9541b4475f212a2bc91d97a7175780a5056f242601f0637bf7768a511fae"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "9a47ae3e125db2d8222de6b8e145678687201e500f9b788b9fd014619db091c3"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "71bf7d61b79a42577fac9bae4f75691235d433c29881dc5556e5e3c131b0b450"
 metafile = true
