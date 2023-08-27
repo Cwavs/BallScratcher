@@ -286,11 +286,6 @@ hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
 metafile = true
 
 [[files]]
-file = "mods/eureka-ships.pw.toml"
-hash = "9b0ca93f27d280239fdeec4ecd745286d897476ed6eeb256ac1a503045edaa52"
-metafile = true
-
-[[files]]
 file = "mods/evilcraft.pw.toml"
 hash = "e00dd0a08ed2f43ea6b39831d8204bb142f5b2cd8ad389d69d746bc855eb7373"
 metafile = true
@@ -633,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "0ad7373259b0dd083b58119aa3094adea23fe9b75fc5e5e60b04ba93f92e9761"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8dbe5cd8ce2ec4a63325d12f66b2ac9cf1b96e71fa316ec86c73fa97363c8f8f"
 metafile = true
 
 [[files]]
