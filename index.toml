@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
+hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c41da4281babbf24ce778fcae1da1da9c2d0bdf9a73b01310e1d7fb120c19cc1"
+hash = "5d79957cc89a36aa873abf9fc3fcf074f040fa0d6784358ba501530505de040d"
 metafile = true
 
 [[files]]
@@ -313,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "8629a0d901f37689bd2fc7ead977ef4523cf52d5754717793588e9004f9e1587"
-metafile = true
-
-[[files]]
-file = "mods/farts.pw.toml"
-hash = "00f5e6e69d5d6b2a703dec43510ae6df77520983d7c73dc3610c29ee220b1122"
 metafile = true
 
 [[files]]
@@ -703,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "e0abd290de019a8918b8f7f68bdc7a63ed43921082a8f70ef6cba99bf3582784"
+metafile = true
+
+[[files]]
+file = "mods/squat-grow.pw.toml"
+hash = "adae26fc92083728772feba728efb415234ec677ac5b4a436dbd95d31d31024d"
 metafile = true
 
 [[files]]
