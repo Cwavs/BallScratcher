@@ -86,6 +86,11 @@ hash = "02cbfc2ef415376644cace02a08a6c5146b22fd33c2436691ac7917fff5f2715"
 metafile = true
 
 [[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "2ceeae76fc6a17e9fe46921e04c7436cd1c4e6e09fac4d4feab31c1d352b2961"
+metafile = true
+
+[[files]]
 file = "mods/better-taskbar.pw.toml"
 hash = "4b77150497d44d8d7a7f9a1a1bbdca6c4de079b6124716ac4aacc8629e5799b9"
 metafile = true
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "1dd4a5385d726491647f47cd42760b0a322a8d3d82728bbbe3a45efde9b4e161"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "1dea386fee41739182bb98870718fcc175a256975a67478d2a893de2f6133ebd"
 metafile = true
 
 [[files]]
