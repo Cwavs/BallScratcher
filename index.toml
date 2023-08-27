@@ -591,6 +591,11 @@ hash = "46a54f774fcc4f30220d9d7cef2a78944fa2437922bb7f7813474ff7e8bfdcfa"
 metafile = true
 
 [[files]]
+file = "mods/packed-up-backpacks.pw.toml"
+hash = "5703cddc3b62f402a935fc4ea89e76c8b6c1b9fd0ceca2412100e22d12fdc9f4"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "a7acc97930a04046cbcb8e34cc718db24971f927cd7d4df030f05fe675ccaca4"
 metafile = true
@@ -737,12 +742,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "27e5a6fa56d4a7ccf792f20b0a0d4d711d7d97913396f08063cf51c1642ec681"
+hash = "3c8b097b00c77c248d4050da77dd3241a753e18e287a1955ca3f2711298fcd4e"
 metafile = true
 
 [[files]]
