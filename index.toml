@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/argonauts.pw.toml"
-hash = "ace5d54fd4383f867e82d1d78569fb8401376ffef2aa63249eb2e686f82e6e38"
+hash = "813c7672a91aa80921b9a26a203bd544740e20d6c4a3fa8c303a4c5d6c7c1d10"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "ccb14d6fbd1528537ba076bca1659cbb15c171b0d737003f45af511a3fada6a3"
+hash = "055f9541b4475f212a2bc91d97a7175780a5056f242601f0637bf7768a511fae"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeonsenhanced.pw.toml"
-hash = "762cbc4ec93eae59a873a53ebb36be37049e9af6c7af6cbec184e3378e4259f0"
+hash = "35d37c2587f2c040e76e9f6b4c49f2ff1f2e9d854e81f0c4cb70ecca01877bbd"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
-hash = "c94f6fcd63d679c0f682e796a5dcae6f8aee54f67ff257adfe96c29c62931671"
+hash = "e00dd0a08ed2f43ea6b39831d8204bb142f5b2cd8ad389d69d746bc855eb7373"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "6e232d1cb1f99dcb469edc3af69b810a433448594a4184d088c5fac38f7f0b0e"
+hash = "25d07c61f557b26d86b783c676479ff2e1240a1702a5379c67acfa0c3572b950"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ca04ac00b831bf1de4215e50b8158e00e7d5ad0249653ad895019a2de29e109d"
+hash = "1e96914cf3ac03016cfe2308545b78a8e6c752be28ec908578d6b954f3608356"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "6fa0373dedf837b6aff1d501cbfd39e904cdf556a9ee962d1fbbfe574c330b45"
+hash = "db303b0c8af1f08eb2da53bb572a120db38de8421897ad3811c1ad249ef365ac"
 metafile = true
 
 [[files]]
