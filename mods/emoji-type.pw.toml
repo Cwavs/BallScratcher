@@ -1,0 +1,13 @@
+name = "Emoji Type (Forge/Fabric)"
+filename = "emoji-type-2.2.0+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "691b888b72f9c655cc768f6776fb0a6462027830"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4663828
+project-id = 574752
