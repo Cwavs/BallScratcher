@@ -321,6 +321,11 @@ hash = "8630a92c47c281994b920f446630b9832f0058a44eb21de12bcab8f2b6f307ed"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "2187638c5e3efa104d4db3dfc53ee9d909c17636d4bbeb2f3c5e76bf7528c40f"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "8aacdfc270e0c6d4757aa569b56bcedaaf570a94aa98e0e2e7f7e9c2b1599c0a"
 metafile = true
