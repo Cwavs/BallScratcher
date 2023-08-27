@@ -756,6 +756,11 @@ hash = "3c4233c984c5d9deafa8d5b987374c8f64ed58ea8d5ccf87706b42fdcf195d1b"
 metafile = true
 
 [[files]]
+file = "mods/visual-overhaul.pw.toml"
+hash = "c28fc066b0c87647fcd4936e740512c0af73df1bc53fcb60d39fe87ca7ab8af6"
+metafile = true
+
+[[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
 metafile = true
