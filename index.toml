@@ -276,6 +276,11 @@ hash = "35d37c2587f2c040e76e9f6b4c49f2ff1f2e9d854e81f0c4cb70ecca01877bbd"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "0ca55547ac6a4eed7d39ea953f4d88f0daca2e0f708ecb49a6b289b73ad37af9"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
 metafile = true
