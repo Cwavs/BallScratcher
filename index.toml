@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
-hash = "92f8b04556a1194413be0271ac6d485d43bfc3e6e7928d5438cc24632a1b7d97"
+hash = "41311b8439a35e4abed69db8fe90994b2667d3829e8fcdb856272c0c070cd2b2"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "44377e9c5594b4131462697bee97ed40315835089609fd3c966f11bd9fd3a124"
+hash = "f62ccf4e3c40942d1ab1b91b7528c1ffcf13071155816a698b3619ef35f2ff3b"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1e96914cf3ac03016cfe2308545b78a8e6c752be28ec908578d6b954f3608356"
+hash = "80c76c4eddeaf69210a851d243f8b46c51fca1e99af4bd5743f380cb6ae07fec"
 metafile = true
 
 [[files]]
