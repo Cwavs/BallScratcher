@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "69bc4ca6cf42ef8af7a453934eb30282fe9e2ada21eacbe905470d4c2b160b47"
+hash = "d36bf41b17d6cce75bff18fdbb06e87ce5ac97169370a45942cc3788bf7bcf47"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
-hash = "9412d3b61adeab0fd302c666d4a2fe3645352c11cf84e0246fcf5b450737e69a"
+hash = "025d29456fd43fe300175e14641bbaad613d29cefd5295b68adb896d2965315c"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "10f8e0f570cdd25d708f5f0d34e42b16851ce63849bde496d9fd63c97a032639"
+hash = "92c9cd0fd116f989f183c53fc8d2e1ca963c3178443b2d536778567e87724e52"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
-hash = "fbe8f915d93551b6d793b3a2c2bbc1e225ed43f3abf1f9abf2c61a9bbc6bfea4"
+hash = "c68c01f2be9eb52a40ed1b51061cfa91676c9830017942642f5afb2c0b239bed"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "80c76c4eddeaf69210a851d243f8b46c51fca1e99af4bd5743f380cb6ae07fec"
+hash = "5769299508e23acf6a17769ff6391d4b797dfb9148ea0296b7e267babdc6ee80"
 metafile = true
 
 [[files]]
