@@ -66,11 +66,6 @@ hash = "83010fde4f92e0ba914f18c2ad7967f4eddf3d65908a11e87473594def8a7840"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "41311b8439a35e4abed69db8fe90994b2667d3829e8fcdb856272c0c070cd2b2"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "9bcb3389e104fbc89005b26c7f54062fb50d73bc7f87c79429ed2b557c223b46"
 metafile = true
