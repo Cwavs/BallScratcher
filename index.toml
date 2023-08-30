@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/goblin-traders.pw.toml"
-hash = "d521d25dd8f013c0213424ff72e2aa8f8d524fc6b1b2f230a2bf75995954eaf1"
+hash = "85d7e015b19477242720a2189d0461209469475ca7d7a4f0de72243a277c8bb5"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "25d07c61f557b26d86b783c676479ff2e1240a1702a5379c67acfa0c3572b950"
+hash = "eacd8aad2353f6df01e96cb3ad43a40e2485d9aa73b34a4158535df7e892063e"
 metafile = true
 
 [[files]]
