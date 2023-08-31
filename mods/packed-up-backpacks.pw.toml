@@ -1,0 +1,13 @@
+name = "Packed Up (Backpacks)"
+filename = "packedup-1.0.28-forge-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZbFzEauY/versions/cRKngBAa/packedup-1.0.28-forge-mc1.20.jar"
+hash-format = "sha1"
+hash = "4aac3eef0971455a69d1790e74dea16f87803315"
+
+[update]
+[update.modrinth]
+mod-id = "ZbFzEauY"
+version = "cRKngBAa"
