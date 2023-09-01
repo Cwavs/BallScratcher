@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "8b71da6af72531567431cef56144077d6faf4bbaa1216011f5e18be369b5204f"
+hash = "c0d0338a50614964efe0ee9cff9413614ec718ac6a5b9f19337b5f92964937ef"
 metafile = true
 
 [[files]]
@@ -232,12 +232,12 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "bbcf0d156bfabab92cfdea9d446db35dcd653bfdc26ced6f282ed1f720298794"
+hash = "1dea386fee41739182bb98870718fcc175a256975a67478d2a893de2f6133ebd"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "6d145345799fe3e2aa614eb1ed832a48fdf47455357d10d8ad57aa1d4a99a386"
+hash = "f106efa4f0255827f932d58eca40ab73acfa8e6c55195dd720ec75b95b664ca6"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "55e8b5d3fc1e71660b521bdef43a9319fe7f0078520322e074aa0576812fab89"
+hash = "0ca55547ac6a4eed7d39ea953f4d88f0daca2e0f708ecb49a6b289b73ad37af9"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "6784adc3b25269c1ae2ac4970527799cc509745668b283fda3f69d08ec7e470c"
+hash = "ed48a7603603a03255a5cc6620b01ad4884a13129a05334d241ed09d8d9dd26c"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+hash = "b7fc29bd04fc41db9a03b07a65a47f75665a1d8f710672d8a2739bd64ccf35eb"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "396dec115a8e20cac75c72b98e889eab9dff21846ddd81f59c454063db7eb4e9"
+hash = "a7acc97930a04046cbcb8e34cc718db24971f927cd7d4df030f05fe675ccaca4"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0bc2f48290a931e19d1cc0166bc920603b39d6c11a4e778fac9f015b0c209bb8"
+hash = "5769299508e23acf6a17769ff6391d4b797dfb9148ea0296b7e267babdc6ee80"
 metafile = true
 
 [[files]]
@@ -837,17 +837,17 @@ metafile = true
 
 [[files]]
 file = "mods/wormhole-portals.pw.toml"
-hash = "38e0cfe0c73186d92877c6731832d96ed3972c0e83c62611eb74a727cd031e94"
+hash = "87fae6e9cd76adf3e70b02f3e4c8adec90d99774d4ae8dfb997435edf24b0652"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a33fde54dbc657e24c8f31bafce6a6a054da67e36fc41dec78207b30ab8e962b"
+hash = "4bbb83ee8c87eb0662cb4a48ed345f135154aa6e06662ad036ee2fc51d656ffc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "eb4c9a5fb9a6327ba9a40c61de9de44a13886afd441a1fdc6fec65bd37970b93"
+hash = "50b04d364014912477c0a42adf649a09a41e66873cbaefaa6f4b86c79acd2315"
 metafile = true
 
 [[files]]
