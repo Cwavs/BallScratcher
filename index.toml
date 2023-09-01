@@ -406,6 +406,11 @@ hash = "cf0e3bafa759abb0efe997c5091dd3b4f8adacddefa9a009b400d6b451945f35"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
+metafile = true
+
+[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "2b1d73a54e76fa6d88701fabe12822d2771c2ee674cc823c5790188f5f5ba7c9"
 metafile = true
