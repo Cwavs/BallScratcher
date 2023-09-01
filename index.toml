@@ -842,17 +842,17 @@ metafile = true
 
 [[files]]
 file = "mods/wormhole-portals.pw.toml"
-hash = "87fae6e9cd76adf3e70b02f3e4c8adec90d99774d4ae8dfb997435edf24b0652"
+hash = "38e0cfe0c73186d92877c6731832d96ed3972c0e83c62611eb74a727cd031e94"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4bbb83ee8c87eb0662cb4a48ed345f135154aa6e06662ad036ee2fc51d656ffc"
+hash = "a33fde54dbc657e24c8f31bafce6a6a054da67e36fc41dec78207b30ab8e962b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "50b04d364014912477c0a42adf649a09a41e66873cbaefaa6f4b86c79acd2315"
+hash = "eb4c9a5fb9a6327ba9a40c61de9de44a13886afd441a1fdc6fec65bd37970b93"
 metafile = true
 
 [[files]]
