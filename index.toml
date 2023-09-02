@@ -306,6 +306,11 @@ hash = "e00dd0a08ed2f43ea6b39831d8204bb142f5b2cd8ad389d69d746bc855eb7373"
 metafile = true
 
 [[files]]
+file = "mods/excavar.pw.toml"
+hash = "c26c83ac3a54c16c695bd6f751d87c17a5841bfc2cc3846ff5bd9c3d3abaf76f"
+metafile = true
+
+[[files]]
 file = "mods/extractinator.pw.toml"
 hash = "f39da2caaa7ed01698228142982a739b09d24f211079e78601a61324771eb278"
 metafile = true
