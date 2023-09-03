@@ -806,11 +806,6 @@ hash = "d1ddf5aab32011016ae296ca4bc9a3b866091cec8911b59700c1b49aacfef41d"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "3c4233c984c5d9deafa8d5b987374c8f64ed58ea8d5ccf87706b42fdcf195d1b"
-metafile = true
-
-[[files]]
 file = "mods/visual-overhaul.pw.toml"
 hash = "c28fc066b0c87647fcd4936e740512c0af73df1bc53fcb60d39fe87ca7ab8af6"
 metafile = true
