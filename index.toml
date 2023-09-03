@@ -721,11 +721,6 @@ hash = "5769299508e23acf6a17769ff6391d4b797dfb9148ea0296b7e267babdc6ee80"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "eb0415df5218357badb7dab60da772f4f21d07a085b19174a6ec6499d5ca28bc"
-metafile = true
-
-[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "df4be9087dc829b5a93858dcddb93c6cdb0138a35a756aea3d50ab63b2c29a9a"
 metafile = true
