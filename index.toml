@@ -571,11 +571,6 @@ hash = "65d51168c485e8015914bc056c771add42398584bf6be289d48e89a4fba2f43d"
 metafile = true
 
 [[files]]
-file = "mods/mystical-oak-tree.pw.toml"
-hash = "e37f81b9e82e757ba91a3efc644ec63dfcac7f89d87a83032f02ea637b955f52"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
