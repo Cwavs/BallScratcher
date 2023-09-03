@@ -1,13 +1,13 @@
 name = "Wormhole (Portals)"
-filename = "wormhole-1.1.14-forge-mc1.20.jar"
+filename = "wormhole-1.1.13a-forge-mc1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "133494b56527b5c407cc71f59d1c8691b9b83ac3"
+hash = "e7c4a6fc9088accdea5a843b17e578635772306e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4732460
+file-id = 4712289
 project-id = 396803
