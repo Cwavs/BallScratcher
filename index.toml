@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "0ca55547ac6a4eed7d39ea953f4d88f0daca2e0f708ecb49a6b289b73ad37af9"
+hash = "55e8b5d3fc1e71660b521bdef43a9319fe7f0078520322e074aa0576812fab89"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplehats.pw.toml"
-hash = "fcf284b72eb67fd8f67dbde3d783b8a78c33420b56a8d78c7430428a051af250"
+hash = "efafe2f0f5a323b2156bfe138569fce7b8f7c9bac331dd15dac31967faf32165"
 metafile = true
 
 [[files]]
