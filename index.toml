@@ -261,11 +261,6 @@ hash = "71bf7d61b79a42577fac9bae4f75691235d433c29881dc5556e5e3c131b0b450"
 metafile = true
 
 [[files]]
-file = "mods/dropz.pw.toml"
-hash = "f021345ef9ea178725e31b13a8276ed6ca0b89861be3c1857b81f3b062240157"
-metafile = true
-
-[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "3223636654b690a235a48dc94af6ab52fb09522d3c75ef192905c2baf1dc5b47"
 metafile = true
@@ -658,11 +653,6 @@ metafile = true
 [[files]]
 file = "mods/rats.pw.toml"
 hash = "f48bcd7a0ce202657b7bfbdd879a91e9747d53c5abb8117a33b833119361039a"
-metafile = true
-
-[[files]]
-file = "mods/rayon.pw.toml"
-hash = "5fa654fadb988260a433f7f9e48c348b309c13a11ffd8a01c194b3d6b39009d4"
 metafile = true
 
 [[files]]
