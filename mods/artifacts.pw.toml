@@ -3,11 +3,11 @@ filename = "artifacts-forge-9.0.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/bJzHzT51/artifacts-forge-9.0.5.jar"
 hash-format = "sha1"
 hash = "313f94a91de0f9c3bf8123eae1e29da2a63ebbc3"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4706567
-project-id = 312353
+[update.modrinth]
+mod-id = "P0Mu4wcQ"
+version = "bJzHzT51"

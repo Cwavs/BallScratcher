@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "78506e4189f36ebf590c3467b1653b7f34332d5a711b6ad7ecc2a97b582b6f0f"
+hash = "45d8f73263f55d0578a156fc3279e17720ae764375fe0e7652fd422a40a484a2"
 metafile = true
 
 [[files]]
@@ -28,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "a344ae925ad6cef380355eee0f075558fc2ab6892f8cbd3881ecd29bb3f43106"
-metafile = true
-
-[[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
 metafile = true
 
 [[files]]
@@ -62,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "83010fde4f92e0ba914f18c2ad7967f4eddf3d65908a11e87473594def8a7840"
+hash = "c1f1d73a6ca18630ade16615ebedad73832359ac8ff30ab9a41b05cab774c633"
 metafile = true
 
 [[files]]
@@ -237,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "f106efa4f0255827f932d58eca40ab73acfa8e6c55195dd720ec75b95b664ca6"
+hash = "cf8c560fcdc1da7cbb45fea2eab36e2f935101038651ecce8740778f620655f5"
 metafile = true
 
 [[files]]
@@ -392,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "cf0e3bafa759abb0efe997c5091dd3b4f8adacddefa9a009b400d6b451945f35"
+hash = "65378b27e31a702d6c668c831cf2f69d2d8f887e8f1708724b41ca657e787747"
 metafile = true
 
 [[files]]
