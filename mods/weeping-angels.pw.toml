@@ -3,11 +3,11 @@ filename = "Weeping-Angels-46.0.1-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TEzJJY7H/versions/AW12GfDC/Weeping-Angels-46.0.1-forge.jar"
 hash-format = "sha1"
 hash = "73077c52059dee68048bec77b0334ca42388ed90"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4598591
-project-id = 291249
+[update.modrinth]
+mod-id = "TEzJJY7H"
+version = "AW12GfDC"

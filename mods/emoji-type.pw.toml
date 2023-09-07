@@ -1,13 +1,13 @@
-name = "Emoji Type (Forge/Fabric)"
-filename = "emoji-type-2.2.0+1.20.jar"
-side = "both"
+name = "Emoji Type"
+filename = "emoji-type-2.2.1+1.20-forge.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/q7vRRpxU/versions/sAVbywwx/emoji-type-2.2.1%2B1.20-forge.jar"
 hash-format = "sha1"
-hash = "691b888b72f9c655cc768f6776fb0a6462027830"
-mode = "metadata:curseforge"
+hash = "b0c7c4bb793dd3a50da53cf15af447a2c848a55a"
 
 [update]
-[update.curseforge]
-file-id = 4663828
-project-id = 574752
+[update.modrinth]
+mod-id = "q7vRRpxU"
+version = "sAVbywwx"
