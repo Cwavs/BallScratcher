@@ -3,11 +3,11 @@ filename = "ExtremeReactors2-1.20.1-2.0.71.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/idkvShUy/versions/lzg72TTO/ExtremeReactors2-1.20.1-2.0.71.jar"
 hash-format = "sha1"
 hash = "2095331fe2688c81531b9f739825ea208103e584"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4715937
-project-id = 250277
+[update.modrinth]
+mod-id = "idkvShUy"
+version = "lzg72TTO"

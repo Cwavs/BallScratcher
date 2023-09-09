@@ -3,11 +3,11 @@ filename = "CyclopsCore-1.20.1-1.18.10.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/aV2DFimo/CyclopsCore-1.20.1-1.18.10.jar"
 hash-format = "sha1"
-hash = "d987493b541857e1ae0a7de0ef6021c788157662"
-mode = "metadata:curseforge"
+hash = "79ae638b6359cd318a45a6b65ce530ae9def5302"
 
 [update]
-[update.curseforge]
-file-id = 4724211
-project-id = 232758
+[update.modrinth]
+mod-id = "Z9DM0LJ4"
+version = "aV2DFimo"

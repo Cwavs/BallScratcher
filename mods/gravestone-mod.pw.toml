@@ -3,11 +3,11 @@ filename = "gravestone-1.20.1-1.0.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/RYtXKJPr/versions/RHJuIsAQ/gravestone-1.20.1-1.0.5.jar"
 hash-format = "sha1"
-hash = "03e36b0ad1c293b561df4f221290fe7a6f874bc0"
-mode = "metadata:curseforge"
+hash = "be514c59abc61f9a2cd8331e12b79ee2d3b6e0e1"
 
 [update]
-[update.curseforge]
-file-id = 4678861
-project-id = 238551
+[update.modrinth]
+mod-id = "RYtXKJPr"
+version = "RHJuIsAQ"

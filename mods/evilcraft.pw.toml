@@ -3,11 +3,11 @@ filename = "EvilCraft-1.20.1-1.2.28.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/3ANq2btA/versions/pznLGqEr/EvilCraft-1.20.1-1.2.28.jar"
 hash-format = "sha1"
-hash = "fd6ee403d713fec6ec9a42c5d66f204f926253f7"
-mode = "metadata:curseforge"
+hash = "a4ca716713f70f2e6128dc3a9ea0f80a13d43c25"
 
 [update]
-[update.curseforge]
-file-id = 4724229
-project-id = 74610
+[update.modrinth]
+mod-id = "3ANq2btA"
+version = "pznLGqEr"

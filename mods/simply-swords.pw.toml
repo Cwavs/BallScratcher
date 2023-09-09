@@ -1,13 +1,13 @@
-name = "Simply Swords [Fabric & Forge]"
-filename = "simplyswords-forge-1.51.0-1.20.1.jar"
+name = "Simply Swords"
+filename = "simplyswords-forge-1.50.1-1.20.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/YIScsMtq/simplyswords-forge-1.50.1-1.20.1.jar"
 hash-format = "sha1"
-hash = "c28fdda45ad2adfc8c4d02870f60f41fea44c5a9"
-mode = "metadata:curseforge"
+hash = "40316b541f784b55c8a645f91c3957ae4238e29a"
 
 [update]
-[update.curseforge]
-file-id = 4681590
-project-id = 659887
+[update.modrinth]
+mod-id = "bK3Ubu9p"
+version = "YIScsMtq"

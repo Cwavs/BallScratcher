@@ -3,11 +3,11 @@ filename = "landmines-1.0.6-forge-mc1.20.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/umx3sWHn/versions/SLMiWg0w/landmines-1.0.6-forge-mc1.20.jar"
 hash-format = "sha1"
 hash = "b5a2a5bc928ce6a1db472af07d50f4fa9d80b1e3"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4573605
-project-id = 499336
+[update.modrinth]
+mod-id = "umx3sWHn"
+version = "SLMiWg0w"

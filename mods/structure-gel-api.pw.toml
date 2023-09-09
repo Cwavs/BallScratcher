@@ -3,11 +3,11 @@ filename = "structure_gel-1.20.1-2.13.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/T8TGycIQ/versions/Yj94wn7H/structure_gel-1.20.1-2.13.1.jar"
 hash-format = "sha1"
 hash = "7502f9cfafd7a3baa77676777a4abf2c13c27653"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4721879
-project-id = 378802
+[update.modrinth]
+mod-id = "T8TGycIQ"
+version = "Yj94wn7H"
