@@ -11,6 +11,36 @@ hash = "7173701aafb7b0a39bc4bd2132fe6eba055a769f3413ead3b361f8099117557a"
 metafile = true
 
 [[files]]
+file = "mods/adaptive-performance-tweaks-core.pw.toml"
+hash = "1b3c7bd4e9842b03ad8b6d71a2c0e98947771f7f4a2fc4be0d2e24950d507d70"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-gamerules.pw.toml"
+hash = "1c54a21d3439bab9ab2c534736f9b10a144f9e319797c25dbe41e5d00c7003b5"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-items.pw.toml"
+hash = "a8265e53f5bc03be442c4df5a216bfda29f160dd9e5ebd6f9093238d67c10a6a"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-player.pw.toml"
+hash = "d43e69b9861bfb48bc1e447affef15f0e09df1b602d979dbeee17a10ea949c2f"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks-spawn.pw.toml"
+hash = "9007527dc95c0643560dc3618056d264c251f6865a6d8ea32adfeda550999199"
+metafile = true
+
+[[files]]
+file = "mods/adaptive-performance-tweaks.pw.toml"
+hash = "9342605d0b5a5b7d11c7af4f56223d6f1f77f9997472af08c5e248b0d61f31f8"
+metafile = true
+
+[[files]]
 file = "mods/advanced-mining-dimension.pw.toml"
 hash = "9143675eb2c2a8d17ec976eddae905df4c2d91c9c6d7354ae72774e837009dab"
 metafile = true
