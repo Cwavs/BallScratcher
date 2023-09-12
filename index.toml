@@ -16,11 +16,6 @@ hash = "9143675eb2c2a8d17ec976eddae905df4c2d91c9c6d7354ae72774e837009dab"
 metafile = true
 
 [[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "820d49a77fbf665f5cca99152b365f6a3358e5476a021f964086a3cf1e1f92d8"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "45d8f73263f55d0578a156fc3279e17720ae764375fe0e7652fd422a40a484a2"
 metafile = true
@@ -633,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e82cde0969786cf8a19678c78cab9e52f064a43e1b277fd814fa53d58fab622d"
+metafile = true
+
+[[files]]
+file = "mods/rats.pw.toml"
+hash = "f48bcd7a0ce202657b7bfbdd879a91e9747d53c5abb8117a33b833119361039a"
 metafile = true
 
 [[files]]
